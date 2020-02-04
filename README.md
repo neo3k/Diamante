@@ -20,6 +20,9 @@ Tan simple como:
 
     $   docker-compose up -d
 
+### Acceder
+[http://localhost:8000](http://localhost:8000)
+
 # Con un poco más de tiempo...
 
  - Auth SPA
